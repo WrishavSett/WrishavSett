@@ -4,8 +4,6 @@ Welcome to my corner of the internet. I'm an **AI/ML Engineer** with a passion f
 
 Currently based in Kolkata, I specialize in crafting **deep learning applications** in computer vision and document intelligence — blending technology with real-world impact. Whether it's reading scanned contracts, counting items on a conveyor belt, or enabling intelligent document workflows, I love building tools that automate the tedious and make room for creativity.
 
-> 🧠 I also share insights, demos, and walkthroughs of my projects on [YouTube](https://www.youtube.com/@wrishavsett). If you're into practical ML, check it out!
-
 ---
 
 ## 💼 A Little About Me
