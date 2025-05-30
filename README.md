@@ -33,10 +33,10 @@ Here’s what I use most:
 
 If you're working on something exciting, want to collaborate, or just want to talk shop about machine learning, I'm always open to interesting conversations!
 
-📬 **Email:** settwrishav@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/WrishavSett](https://linkedin.com/in/WrishavSett)  
-💻 **GitHub:** [github.com/WrishavSett](https://github.com/WrishavSett)
-🎥 **YouTube:** [@WrishavAI](https://www.youtube.com/@WrishavAI)
+- 📬 **Email:** settwrishav@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/WrishavSett](https://linkedin.com/in/WrishavSett)  
+- 💻 **GitHub:** [github.com/WrishavSett](https://github.com/WrishavSett)
+- 🎥 **YouTube:** [@WrishavAI](https://www.youtube.com/@WrishavAI)
 
 ---
 
