@@ -36,7 +36,7 @@ If you're working on something exciting, want to collaborate, or just want to ta
 - 📬 **Email:** settwrishav@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/WrishavSett](https://linkedin.com/in/WrishavSett)  
 - 💻 **GitHub:** [github.com/WrishavSett](https://github.com/WrishavSett)
-- 🎥 **YouTube:** [@wrishavsett]([https://www.youtube.com/@wrishavsett])
+- 🎥 **YouTube:** [youtube.com/@wrishavsett]([https://www.youtube.com/@wrishavsett])
 
 ---
 
