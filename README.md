@@ -2,7 +2,9 @@
 
 Welcome to my corner of the internet. I'm an **AI/ML Engineer** with a passion for building systems that **learn from data, see the world, and read documents just like humans do** — only faster, and at scale.
 
-Currently based in Kolkata, I specialize in crafting **Deep Learning Applications** in computer vision and document intelligence — blending technology with real-world impact. Whether it's reading scanned contracts, counting items on a conveyor belt, or enabling intelligent document workflows, I love building tools that automate the tedious and make room for creativity.
+Currently based in Kolkata, I specialize in crafting **deep learning applications** in computer vision and document intelligence — blending technology with real-world impact. Whether it's reading scanned contracts, counting items on a conveyor belt, or enabling intelligent document workflows, I love building tools that automate the tedious and make room for creativity.
+
+> 🧠 I also share insights, demos, and walkthroughs of my projects on [YouTube](https://www.youtube.com/@wrishavsett). If you're into practical ML, check it out!
 
 ---
 
@@ -25,7 +27,7 @@ Here’s what I use most:
 **Web & APIs:** Flask, Django, Gradio, FastAPI  
 **Data Tools:** Label Studio, Roboflow, Pandas, NumPy, Ffmpeg  
 **Deployment:** Git, Docker, REST APIs  
-**Cloud & DevOps:** Oracle Cloud (certified), Linux, Bash
+**Cloud & DevOps:** Oracle Cloud (certified), Linux, Bash  
 
 ---
 
@@ -33,10 +35,10 @@ Here’s what I use most:
 
 If you're working on something exciting, want to collaborate, or just want to talk shop about machine learning, I'm always open to interesting conversations!
 
-- 📬 **Email:** settwrishav@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/WrishavSett](https://linkedin.com/in/WrishavSett)  
-- 💻 **GitHub:** [github.com/WrishavSett](https://github.com/WrishavSett)
-- 🎥 **YouTube:** [youtube.com/@wrishavsett]([https://www.youtube.com/@wrishavsett])
+📬 **Email:** settwrishav@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/WrishavSett](https://linkedin.com/in/WrishavSett)  
+💻 **GitHub:** [github.com/WrishavSett](https://github.com/WrishavSett)  
+🎥 **YouTube:** [@wrishavsett](https://www.youtube.com/@wrishavsett)
 
 ---
 
