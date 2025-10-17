@@ -1,12 +1,12 @@
 # Wrishav Sett
 
-Machine Learning Engineer specializing in Computer Vision, Document Intelligence and Natural Language Processing
+AI/ML Engineer specializing in Computer Vision, Document Intelligence and Natural Language Processing
 
 ---
 
 ## About
 
-I am a Machine Learning Engineer with over a year of professional experience building production-grade AI systems that solve real business problems. My work focuses on computer vision, document intelligence, and natural language processing — transforming unstructured data into actionable insights.
+I am an AI/ML Engineer with over a year of professional experience building production-grade AI systems that solve real business problems. My work focuses on computer vision, document intelligence, and natural language processing — transforming unstructured data into actionable insights.
 
 I design and deploy end-to-end ML pipelines that reduce manual workload, improve operational efficiency, and scale with business needs. From training custom deep learning models to serving them through robust APIs, I handle the complete lifecycle of ML systems in production environments.
 
